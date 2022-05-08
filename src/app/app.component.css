@@ -1,0 +1,14 @@
+
+
+.uk-panel-box {
+    background: #fafafa;
+    color: #666;
+    border: 1px solid #E5E5E5;
+    border-radius: 4px
+}
+
+.mycontainer{
+    max-width: 1200px;
+    margin:0 auto;
+    padding:10px;
+}
