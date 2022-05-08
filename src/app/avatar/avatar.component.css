@@ -14,12 +14,13 @@
     padding:10px;
 }
 
-.avatar{
-    height: 100px;
-    width: 100px;
+/* .avatar{
+    max-width: 50%;
+    height: 10rem;
     border-radius: 50%;
     background: #fafafa;
     border: 1px solid #E5E5E5;
     color: #666;
-
-}
+    display: block;
+    object-fit: cover;
+} */
